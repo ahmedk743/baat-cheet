@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338997302078",
+    "project_id": "baatcheet-28b38",
+    "storage_bucket": "baatcheet-28b38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338997302078:android:7127de8db6ebbf5bb1926f",
+        "android_client_info": {
+          "package_name": "com.smartdevs.baatcheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338997302078-9malfr55595n7f3q3ds7e69pj4np766g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgyZcA-iE06dWERNkoe9-J09fNdRt7HFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338997302078-9malfr55595n7f3q3ds7e69pj4np766g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
